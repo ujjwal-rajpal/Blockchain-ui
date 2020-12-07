@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "blockchain-ui"
+    }
+  },
+  "defaultProject": "blockchain-ui",
+  "cli": {
+    "analytics": "34507ee5-e57c-42ba-bdad-8134b06abbf5"
+  }
 }
